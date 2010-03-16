@@ -4,4 +4,5 @@ el [Grupo PHP Argentina] [2]
 [1]: http://lithify.me	"Lithium"
 [2]: http://grupophp.com.ar	"Grupo PHP Argentina"
 
-== Instalación ==
+Instalación
+-----------
